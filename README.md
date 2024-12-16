@@ -1,2 +1,2 @@
-# Data-Analysis-Practice
-Analysis of various data, data visualizations, simple predictive modeling
+Descriptive statistics of plane accidents
+A validation study of a dyslexia assessment instrument

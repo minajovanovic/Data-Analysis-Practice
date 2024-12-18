@@ -7,3 +7,5 @@ In this repo, I have a various example of data analyst practice:
 2. A validation study of a dyslexia assessment instrument [dyslexia](https://github.com/MinaJovanovic/Data-Analysis-Practice/blob/main/Dyslexia-analysis.ipynb)
 
 3. Descriptive statistics of alcohol consumsion over the countries [alcohol](https://github.com/MinaJovanovic/Data-Analysis-Practice/blob/main/Alocohol_consumpsion.ipynb).
+
+4.Logistic regresion for predicting mobile phone price category [mobile_phone](https://github.com/MinaJovanovic/Data-Analysis-Practice/blob/main/Mobile_Price_Classification.ipynb).

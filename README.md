@@ -10,4 +10,4 @@ In this repo, I have a various example of data analyst practice:
 
 4. Logistic regresion for predicting mobile phone price category [mobile_phone](https://github.com/MinaJovanovic/Data-Analysis-Practice/blob/main/Mobile_Price_Classification.ipynb).
 
-5. Cluster analysis of behaviour pattern of mobile phone users [behaviou_pattern_mobile_phone](https://github.com/MinaJovanovic/Data-Analysis-Practice/blob/main/Mobile_Device_Usage_and_User_Behavior_Dataset.ipynb).
+5. Cluster analysis of behaviour pattern of mobile phone users [behaviour_pattern_mobile_phone](https://github.com/MinaJovanovic/Data-Analysis-Practice/blob/main/Mobile_Device_Usage_and_User_Behavior_Dataset.ipynb).

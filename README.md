@@ -13,3 +13,5 @@ In this repo, I have a various example of data analyst practice:
 5. Cluster analysis of behaviour pattern of mobile phone users [behaviour_pattern_mobile_phone](https://github.com/MinaJovanovic/Data-Analysis-Practice/blob/main/Mobile_Device_Usage_and_User_Behavior_Dataset.ipynb).
 
 6. A/B Testing analysis on two groups of users exposed to two slightly different versions of the same app/site/product [A/B_testing](https://github.com/MinaJovanovic/Data-Analysis-Practice/blob/main/AB_testing.ipynb).
+
+7.Regression Analysis (91% Recall acc) on credit card fraud dataset[Regression analysis-recall acc](https://github.com/minajovanovic/Data-Analysis-Practice/blob/main/credit_card_fraud.ipynb).
